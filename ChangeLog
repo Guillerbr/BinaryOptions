@@ -1,0 +1,9 @@
+===============================================================================
+Tue Dec 27 20:14:48 PST 2011
+
+One option brokerage, Banc De Binary, allows custom creation of the options
+(They must have some kind of pricing formula, which I'd have to beat).
+Options are for about 45 minutes into the future. So, I think that I will have
+to create a Neural Net that predicts 5 minute bars out to the next hour.
+
+Task: Get live Forex data out of Interactive Brokers API
